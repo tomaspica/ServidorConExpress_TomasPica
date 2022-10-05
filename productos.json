@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Producto 1",
+        "price": 20000,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flistado.mercadolibre.com.ar%2Fguantes-de-boxeo&psig=AOvVaw006OidyYQUIs7w5T7qgQZI&ust=1665022565418000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOi2yNOCyPoCFQAAAAAdAAAAABAD",
+        "id": 1
+     },
+     {
+        "title": "Producto 2",
+        "price": 1000,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expertboxing.es%2Fentrenamiento-de-boxeo%2Fentrenamiento-de-salto-en-soga-para-boxeo&psig=AOvVaw1bIx4LF3xO0RsLBMpc7Wjw&ust=1665022660321000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDb0fOCyPoCFQAAAAAdAAAAABAJ",
+        "id": 2
+     },
+     {
+        "title": "Producto 3",
+        "price": 50000,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flistado.mercadolibre.com.ar%2Fmuneco-de-boxeo&psig=AOvVaw3ys4KYWqFBTXdKd2uC1HlI&ust=1665022701363000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNC004iDyPoCFQAAAAAdAAAAABAD",
+        "id": 3
+     }
+]
